@@ -1,0 +1,11 @@
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\ALEX\Desktop\EstudiosProgramacion\App Muestra\AppMVC\AppMVC\CapaNegocio\obj\Debug\CapaNegocio.pdb
